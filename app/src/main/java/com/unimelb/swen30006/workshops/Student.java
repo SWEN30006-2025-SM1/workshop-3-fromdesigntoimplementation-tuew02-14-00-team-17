@@ -11,11 +11,9 @@ public class Student extends Person {
     }
 
     public void sendEmailMsg(String message) {
-        // Logic to send email
     }
 
     public float totalGrade() {
-        // Logic to calculate grade
         return 0.0f; // Placeholder return
     }
 }
